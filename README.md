@@ -1,2 +1,2 @@
 # postest
-android pos device aouto test
+android pos device auto test
